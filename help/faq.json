@@ -1,0 +1,17 @@
+[
+  {
+    "title": "What is IEEE Bombay Section?",
+    "description": "IEEE is the world’s largest professional association dedicated to advancing technological innovation and excellence for the benefit of humanity. IEEE and its members inspire a global community through IEEE’s highly cited publications, conferences, technology standards, and professional and educational activities. On 13th July 1976, the Bombay Section was formed (IEEE Geographic Unit Organizing Document – Bombay) with a Territory of Maharashtra, Goa, Gujarat (which later separated to form a Section itself on 15th August 1990), Madhya Pradesh (which now includes newly formed Chhatisgarh) and Diu & Daman UT (Except Pune Metropolitan City which is separate Section from 26th June 2010), closely followed by Bangalore & Delhi.",
+    "collapse": "collapseOne"
+  },
+  {
+    "title": "What is SAC?",
+    "description": "The IEEE Bombay Section Student Activities Committee is a committee within the IEEE Bombay Section that is dedicated to organizing and coordinating activities and events for students who are members of the IEEE. The committee's main objective is to enhance the professional and personal development of IEEE student members, by providing them with opportunities to network, learn, and develop new skills. The committee is composed of student volunteers from various universities and colleges in the Bombay Section area, who work together to organize a wide range of events and activities, such as workshops, seminars, technical talks, coding competitions, hackathons, and industry visits. The events are designed to help students enhance their technical knowledge, gain exposure to industry trends, and develop leadership and teamwork skills.",
+    "collapse": "collapseTwo"
+  },
+  {
+    "title": "Is the event worth the price and my time?",
+    "description": "Definately yes! It's because the event is focusing more to increase your networking and make you learn good things which are useful for your future. Many industrial professionals will be present at the event to teach you all the industry standards which are used in a industry.",
+    "collapse": "collapseThree"
+  }
+]

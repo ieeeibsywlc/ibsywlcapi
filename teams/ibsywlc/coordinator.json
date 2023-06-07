@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Dr. Amolkumar Jadhav",
+    "designation": "Faculty Coordinator",
+    "designation2": "IBSYWLC ",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ibsywlc-backup.appspot.com/o/Faculty%2FAmol%20Kumar%20Jadhav.jpg?alt=media&token=595afbe0-dbb5-48b3-b471-d117e8fd8e8f",
+    "weburl": "https://www.linkedin.com/in/apekshyapawar"
+  },
+  {
+    "name": "Prof. Promod Bide",
+    "designation": "Accomodation Chair",
+    "designation2": "IBSYWLC",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ibsywlc-backup.appspot.com/o/Faculty%2FPromod%20Bhide.png?alt=media&token=bf790fa1-0b27-4353-b51c-06ff24cfa8b2",
+    "weburl": "https://www.linkedin.com/in/kirti-ekhande-28594820a/"
+  },
+  {
+    "name": "Prof. Adil Sheikh",
+    "designation": "Food Chair",
+    "designation2": "IBSYWLC",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ibsywlc-backup.appspot.com/o/Faculty%2FAdil%20Sheikh.png?alt=media&token=9d2eb485-b0f8-4d21-9989-701c1158fb61",
+    "weburl": "https://www.linkedin.com/in/kirti-ekhande-28594820a/"
+  }
+]

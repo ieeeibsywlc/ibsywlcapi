@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Ms. Kirti Ekhande",
+    "designation": "Student Coordinator",
+    "designation2": "IBSYWLC",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ibsywlc-backup.appspot.com/o/Operations%2FKirti%20Ekhande.jpg?alt=media&token=7cc3d7a6-d4f8-4e31-be8a-ceef0ee7c3fa",
+    "weburl": "https://www.linkedin.com/in/kirti-ekhande-28594820a/"
+  },
+  {
+    "name": "Mr. Vighnesh Sadhle",
+    "designation": "Student Coordinator",
+    "designation2": "IBSYWLC",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ibsywlc-backup.appspot.com/o/Design%2FVignesh%20Sadhle.jpg?alt=media&token=f388284c-022c-4ffd-b1e0-49d976dc023c",
+    "weburl": "https://www.linkedin.com/in/vighnesh-sadhle-734912108/"
+  },
+  {
+    "name": "Mr. Aryan Shinde",
+    "designation": "Website Chair",
+    "designation2": "IBSYWLC",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ibsywlc-backup.appspot.com/o/Operations%2FAryan%20Shinde.jpg?alt=media&token=93dba5e4-7e63-48a8-83ed-2cc408b4ef99",
+    "weburl": "https://www.linkedin.com/in/shindearyan/"
+  },
+  {
+    "name": "Ms. Anushka Rajurkar",
+    "designation": "Design Chair",
+    "designation2": "IBSYWLC",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ibsywlc-backup.appspot.com/o/Publicity%2FAnushka%20Rajurkar.jpg?alt=media&token=8f2ba245-7808-4713-87ed-4db23e1603c5",
+    "weburl": "https://www.linkedin.com/in/anushka-rajurkar/"
+  },
+  {
+    "name": "Mr. Ajinkya Kamble",
+    "designation": "Operations Chair",
+    "designation2": "IBSYWLC",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ibsywlc-backup.appspot.com/o/Operations%2FAjinkya%20Kamble.jpg?alt=media&token=c13884a0-2bc9-4759-ab64-c31da0dcf03a",
+    "weburl": "https://www.linkedin.com/in/ajinkya-kamble862/"
+  },
+  {
+    "name": "Ms. Manvi Sharma",
+    "designation": "Sponsorship Chair",
+    "designation2": "IBSYWLC",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ibsywlc-backup.appspot.com/o/Sponsorship%2FManvi%20Sharma.jpg?alt=media&token=be989ef1-ea51-441f-b399-4be1ba68d453",
+    "weburl": "https://www.linkedin.com/in/themanvi-sharma/"
+  },
+  {
+    "name": "Mr. Prathamesh Raut",
+    "designation": "Accomodation Chair",
+    "designation2": "IBSYWLC",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ibsywlc-backup.appspot.com/o/Operations%2FPrathamesh%20Raut.jpg?alt=media&token=d64bb0a0-a298-471b-9b8e-cea96017b164",
+    "weburl": "http://www.linkedin.com/in/prathameshraut/"
+  },
+  {
+    "name": "Ms. Anvita Agarkar",
+    "designation": "Accomodation Chair",
+    "designation2": "IBSYWLC",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ibsywlc-backup.appspot.com/o/Divisions%2FAnvita%20Agarkar.png?alt=media&token=613a9dbd-ff3d-4eee-a727-48b48bbe69c0",
+    "weburl": "https://www.linkedin.com/in/anvita-agarkar-81462b227/"
+  },
+  {
+    "name": "Mr. Atharva Hardikar",
+    "designation": "Logistic Chair",
+    "designation2": "IBSYWLC",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ibsywlc-backup.appspot.com/o/Operations%2FAtharva%20Hardikar.png?alt=media&token=b49629a1-9899-4e1d-8dd7-58ec447b1716",
+    "weburl": "https://www.linkedin.com/in/atharva-hardikar/"
+  },
+  {
+    "name": "Mr. Kuldip Bhokse",
+    "designation": "Logistic Chair",
+    "designation2": "IBSYWLC",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ibsywlc-backup.appspot.com/o/Divisions%2FKuldeep%20Bhokse.png?alt=media&token=8c5fcef4-7014-4013-bc53-af53858d0db1",
+    "weburl": "https://www.linkedin.com/in/kuldip-bhokse-696903211/"
+  },
+  {
+    "name": "Ms. Aishwarya Raut",
+    "designation": "Hospitality Chair",
+    "designation2": "IBSYWLC",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ibsywlc-backup.appspot.com/o/Operations%2FAishwarya%20Raut.jpg?alt=media&token=cad7ca8d-7af0-4029-9e66-95b618601115",
+    "weburl": "https://www.linkedin.com/in/aishwarya-raut-1b327b24b/"
+  },
+  {
+    "name": "Ms. Divya Kathoke",
+    "designation": "Member",
+    "designation2": "IBSYWLC",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ibsywlc-backup.appspot.com/o/Design%2FDivya%20Kathoke.jpg?alt=media&token=7852eb8d-4986-4eb4-b9b7-d09e8a652547",
+    "weburl": "https://www.linkedin.com/in/divya-kathoke-8962a4212/"
+  },
+  {
+    "name": "Mr. Dhanraj Nandurkar",
+    "designation": "Member",
+    "designation2": "IBSYWLC",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ibsywlc-backup.appspot.com/o/Operations%2FDhanraj%20Nandurkar.png?alt=media&token=ed4ce045-71db-49ce-a71b-419f47ce7f31",
+    "weburl": "https://www.linkedin.com/in/dhanraj-nandurkar-611018236/"
+  }
+]
