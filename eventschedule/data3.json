@@ -18,8 +18,16 @@
 
     "lectures": [
       [
-        ["TBA", false, ""],
-        ["TBA", false, ""],
+        [
+          "India's View on Drone sector and Its opportunities",
+          true,
+          "Dr. Vikram Patil Director, ADCET Ashta"
+        ],
+        [
+          "Hands on Training on Remote Sensing Data Processing",
+          true,
+          "Dr. Gulab Singh IIT Bombay, IEEE GRSS Distinguished Lecturer"
+        ],
         ["TBA", false, ""],
         [
           "Writing effective and successful grant proposals",
