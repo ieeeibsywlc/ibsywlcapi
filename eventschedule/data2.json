@@ -39,14 +39,17 @@
   },
   {
     "timing": "11:45 am - 12:30 pm",
-    "timefor": "Plenary Talk III - TBA"
+    "timefor": "Plenary Talk III",
+    "isplenary": true,
+    "topic": "Topic - Importance of Self Branding & Happiness, in Professional day to day life",
+    "speaker": "Speaker - Dr. Mandar Kanvinde (Founde Member, BRANDcapita)"
   },
   {
     "timing": "12:30 pm - 01:15 pm",
     "timefor": "Plenary Talk IV",
     "isplenary": true,
-    "topic": "Topic - Importance of Self Branding & Happiness, in Professional day to day life",
-    "speaker": "Speaker - Dr. Mandar Kanvinde (Founde Member, BRANDcapita)"
+    "topic": "Topic - Unlock your Potential",
+    "speaker": "Speaker - Dr. Alka Mahajan (Dean, MPSTME)"
   },
   {
     "timing": "01:15 pm - 02:30 pm",
