@@ -45,7 +45,12 @@
           "Dr. Shashikant Patil (Chair, ComSoc IEEE BS)",
           "Student Track"
         ],
-        ["TBA", false, "", "YP Track"],
+        [
+          "How to build your CV - Stay ahead of the curve",
+          true,
+          "Dr. Nikhil Gala, Chairperson, Corporate Relations & Placements MPSTME NMIMS University",
+          "YP Track"
+        ],
         [
           "Keys to be a successful IEEE volunteer in Global Arena",
           true,
@@ -62,7 +67,12 @@
 
       [
         ["03:30 pm - 04:30 pm", false, "", ""],
-        ["TBA", false, "", "Student Track"],
+        [
+          "Careers in Remote Sensing",
+          true,
+          "Dr. Gulab Singh, IIT Bombay, IEEE GRSS Distinguished Lecturer",
+          "Student Track"
+        ],
         [
           "Exploring Social Projects for Young Professionals",
           true,
@@ -70,7 +80,12 @@
           "YP Track"
         ],
         ["TBA", false, "", " WIE Track"],
-        ["TBA", false, "", "Branch Counselor Track"]
+        [
+          "Challenges in Engineering in view if information Explosion",
+          true,
+          "Prof. Narayan Marathe, Associate Professor, Walchand College of Engineering, Sangli",
+          "Branch Counselor Track"
+        ]
       ]
     ]
   },
