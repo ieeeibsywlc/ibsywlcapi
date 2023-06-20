@@ -4,20 +4,34 @@
     "designation": "Faculty Coordinator",
     "designation2": "IBSYWLC ",
     "img": "https://firebasestorage.googleapis.com/v0/b/ibsywlc-backup.appspot.com/o/Faculty%2FAmol%20Kumar%20Jadhav.jpg?alt=media&token=595afbe0-dbb5-48b3-b471-d117e8fd8e8f",
-    "weburl": "https://www.linkedin.com/in/apekshyapawar"
+    "weburl": "https://www.linkedin.com/in/amolkumar-jadhav-b512b9101/"
   },
   {
     "name": "Prof. Promod Bide",
     "designation": "Accomodation Chair | Sports Lead",
     "designation2": "IBSYWLC",
     "img": "https://firebasestorage.googleapis.com/v0/b/ibsywlc-backup.appspot.com/o/Faculty%2FPromod%20Bhide.png?alt=media&token=bf790fa1-0b27-4353-b51c-06ff24cfa8b2",
-    "weburl": "https://www.linkedin.com/in/kirti-ekhande-28594820a/"
+    "weburl": "/"
   },
   {
     "name": "Prof. Adil Sheikh",
     "designation": "Accomodation Chair | Food Chair | Sports Lead",
     "designation2": "IBSYWLC",
     "img": "https://firebasestorage.googleapis.com/v0/b/ibsywlc-backup.appspot.com/o/Faculty%2FAdil%20Sheikh.png?alt=media&token=9d2eb485-b0f8-4d21-9989-701c1158fb61",
-    "weburl": "https://www.linkedin.com/in/kirti-ekhande-28594820a/"
+    "weburl": "https://www.linkedin.com/in/dr-mohd-adil-sheikh-8281a411b/"
+  },
+  {
+    "name": "Prof. Sandeep Mishra",
+    "designation": "Food Chair",
+    "designation2": "IBSYWLC",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ibsywlc-backup.appspot.com/o/Faculty%2FSandeep%20Mishra.png?alt=media&token=256f6ef5-2310-4081-924a-acca41a52feb",
+    "weburl": "/"
+  },
+  {
+    "name": "Prof. Deepak Sinha",
+    "designation": "Hospitality Chair",
+    "designation2": "IBSYWLC",
+    "img": "https://firebasestorage.googleapis.com/v0/b/ibsywlc-backup.appspot.com/o/Faculty%2FDeepak%20Sinha.png?alt=media&token=b7363ca1-83cb-42b5-8fc9-babf8a0d194c",
+    "weburl": "/"
   }
 ]
