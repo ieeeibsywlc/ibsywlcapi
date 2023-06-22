@@ -3,8 +3,7 @@
     "timing": "08:00 am - 10:00 am",
     "timefor": "Registration & Breakfast"
   },
-  { "timing": "10:00 am - 11:00 am", "timefor": "Inaugural Function" },
-  { "timing": "11:00 am - 11:15 am", "timefor": "Keynote Speech" },
+  { "timing": "10:00 am - 11:15 am", "timefor": "Inaugural Function" },
   {
     "timing": "11:15 am - 11:30 am",
     "timefor": "Tea Break / Networking / Photo Sessions"
